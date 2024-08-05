@@ -1,0 +1,73 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+#top-nav {
+    width: 68%;
+}
+
+#home {
+    background-color: #0583f2;
+    max-width: 70%;
+    max-height: 70%;
+    height: 500px;
+    border-radius: 40px;
+    color: white;
+    z-index: 1;
+}
+
+#quote {
+    max-width: 55%;
+}
+
+#socials {
+    background-color: lightgrey;
+    border-radius: 40px;
+}
+
+#about {
+    background-color: #41A0F2;
+    color: white;
+    border-radius: 40px;
+    width: 70%;
+    max-height: 70%;
+    height: 500px;
+}
+
+#about-text {
+    font-size: 20px;
+}
+
+#projects {
+    background-color: #D7D7D9;
+    border-radius: 40px;
+    width: 70%;
+    max-height: 70%;
+    height: 500px;
+}
+
+#bot-nav {
+    width: 73.5%;
+}
+
+#html-css {
+    width: 30px;
+}
+
+#about-text {
+    max-width: 75%;
+}
+
+#tech {
+    background-color: white;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.col img {
+    border-radius: 20px;
+}
