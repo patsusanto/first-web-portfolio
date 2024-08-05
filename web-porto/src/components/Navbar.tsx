@@ -4,7 +4,7 @@ interface Props {
     goToSlide: (index: number) => void;
 }
 function Navbar({currentSlide, goToSlide}: Props) {
-
+    //hello
     return (
         <div className="container mt-3" id="top-nav">
             <nav className="navbar navbar-expand-lg">
